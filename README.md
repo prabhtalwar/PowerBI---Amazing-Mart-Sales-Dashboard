@@ -21,13 +21,13 @@ Netherlands: 0.07M
 Sweden: 0.03M
 Switzerland, Norway, Ireland, Portugal: Each around 0.02M
 
-*****Sales Growth Rate (Year-over-Year):
+**Sales Growth Rate (Year-over-Year):
 2012: 4.67
 2013: 3.28
 2014: 2.73
 Insight: There is a declining trend in sales growth rate over the years.
 
-*****Top 5 Customers by Sales:
+**Top 5 Customers by Sales:
 Angie Massey: ~18K
 Lola Hughes: ~15K
 Ashton Charles: ~12K
@@ -35,7 +35,9 @@ Isaac David: ~12K
 Philip Newsom: ~11K
 
 *****Monthly Sales Trends (2011-2014):
+
 **Sales Trends:** Sales show significant monthly fluctuations, with notable peaks in July, November, and December.
+
 **Annual Comparison:** Sales for 2014 are generally higher compared to previous years, indicating a positive trend despite the overall decline in growth rate.
 
 **Insights:**
